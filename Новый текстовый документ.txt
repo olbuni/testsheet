@@ -1,0 +1,7 @@
+git log --oneline - проверка коммитов
+git add .
+git commit -m "название" - сохранение
+git status
+git checkout -  - откат к последнему
+git checkout "хэш" - переход к коммиту
+git pull - внести изменения с гита
